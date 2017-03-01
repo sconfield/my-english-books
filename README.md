@@ -1,5 +1,8 @@
 # my-english-books
 
+# want to read list
+- [Who Gets What — and Why](https://book.douban.com/subject/26367420)
+
 # reading
 - [MarkSheet](http://marksheet.io)
 - [The Great Gatsby](https://book.douban.com/subject/21750370)
