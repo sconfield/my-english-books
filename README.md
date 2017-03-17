@@ -5,12 +5,13 @@
 - [Who Gets What — and Why](https://book.douban.com/subject/26367420)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden)
 - [CSS Zen Garden](http://www.csszengarden.com)
+- [GitHub Guides](https://guides.github.com/activities/hello-world)
 
 # reading
 - [Spring Boot Reference Guide](http://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/html)
+- [The Time Machine](https://book.douban.com/subject/1187124)
 
 # read
-
 - coding
   - [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes)
   - [MarkSheet](http://marksheet.io)
