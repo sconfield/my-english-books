@@ -4,6 +4,7 @@
 - [Love Actually](https://book.douban.com/subject/1377064)
 - [Who Gets What — and Why](https://book.douban.com/subject/26367420)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden)
+- [Effective JavaScript](https://book.douban.com/subject/10494340)
 - [CSS Zen Garden](http://www.csszengarden.com)
 - [GitHub Guides](https://guides.github.com/activities/hello-world)
 
